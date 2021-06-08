@@ -39,3 +39,6 @@ After the database is complete, perform the following:
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+ERD from Quick DBD
+![](https://github.com/adriana-icasiano/sql-challenge/blob/ba685c94479da1afbda26826e11b315617cdc853/EmployeeSQL/QuickDBD-Free%20Diagram.png)
