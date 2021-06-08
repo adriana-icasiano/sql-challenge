@@ -2,10 +2,7 @@
 
 
 ## Background
-
-It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
-
-In this assignment, students will design the tables to hold data in the CSVs, and import the CSVs into a SQL database. In other words, students will perform:
+The data related to this assignment represents employee data at HP from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files. In this assignment, students will design the tables to hold data in the CSVs, and import the CSVs into a SQL database. In other words, students will perform:
 
 1. Data Engineering
 
